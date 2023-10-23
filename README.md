@@ -20,7 +20,7 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 ### My Skills 
 
 **Tools/Technologies/Frameworks:**
-- *Web Development:* MERN stack, Postman, ReactJS, Redux, Express, MongoDB, Angular, Ionic, Javascript/Typescript, HTML/CSS, Bootstrap, Tailwind, Jira in an Agile framework of web development, web application security concepts 
+- *Web Development:* MERN stack, Postman, ReactJS, Redux, Express, MongoDB, Angular, Ionic, Javascript/Typescript, HTML/CSS, Bootstrap, Tailwind, ESlint, webpack, Jira in an Agile framework of web development, web application security concepts 
                 
 - *Network Tools:* wireshark, tcpdump, nmap, ssh, netcat + other command-line utilities 
                 

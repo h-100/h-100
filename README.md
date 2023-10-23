@@ -9,7 +9,7 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 
 |  Projects                                            | Repo                                            |
 |------------------------------------------------------|-------------------------------------------------|
-| MERN stack flashcards project                        |    ongoing                                      |
+| MERN stack side project                              |    ongoing                                      |
 | Bash mini scripts (updating every week)              |    https://github.com/h-100/bash_learnings      |
 | React mini projects (updating biweekly)              |    https://github.com/h-100/react_things        |
 | JS/WebDev mini learnings (updating 3x a week)        |    https://github.com/h-100/webdev_things       |

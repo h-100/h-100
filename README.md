@@ -1,24 +1,44 @@
 
 
 
-Hello, I am Hira, a full-stack/front-end engineer (currently open for opportunities) with a prior experience in academia as a Research Assistant in the broad areas of internet measurement, networks security and privacy research.
+Hello, I am Hira, currently a full-stack software engineer (open for opportunities) with a prior experience in academia as a Research Assistant in the broad areas of internet measurement, networks security and privacy research.
 
-Para #2 describing work and publications 
 
-#### My Current Ongoing Learnings/Projects/Tutorials 
+
+### My Current Ongoing Learnings/Projects/Tutorials 
 
 |  Projects                                            | Repo                                            |
 |------------------------------------------------------|-------------------------------------------------|
-| MERN stack flashcards project                        |                                                 |
+| MERN stack flashcards project                        |    ongoing                                      |
 | Bash mini scripts (updating every week)              |    https://github.com/h-100/bash_learnings      |
 | React mini projects (updating biweekly)              |    https://github.com/h-100/react_things        |
 | JS/WebDev mini learnings (updating 3x a week)        |    https://github.com/h-100/webdev_things       |
 | Leetcode Learnings                                   |    https://github.com/h-100/leetcode            |
 
 
-#### My Skills 
+### My Skills 
 
-#### My Publications 
+**Tools/Technologies/Frameworks:**
+- *Web Development:* MERN stack, Postman, ReactJS, Redux, Express, MongoDB, Angular, Ionic, Javascript/Typescript, HTML/CSS, Bootstrap, Tailwind, Jira in an Agile framework of web development, web application security concepts 
+                
+- *Network Tools:* wireshark, tcpdump, nmap, ssh, netcat + other command-line utilities 
+                
+- *ML and Data Analysis Tools:* Numpy, Pandas, word2vec with gensim, Sci-kit learn, NLP Python modules/libraries, ML algorithms implementations in Python, jupyter notebooks 
+                
+- *Visualization Tools:* plotly, matplotlib, d3 
+- *Linux Tools:*vim, grep, sed, awk 
+                
+**Languages:** Python, C/C++, Java, Bash, JavaScript/Typescript, Node, HTML/CSS, C\#, D3, SQL, Latex, VIM, PHP, some dabbling in Rust and Go
+
+**Platforms**: Linux/Unix, Kali Linux, macOS, Windows, Apache Spark
+
+**Version Control Systems**: Github, Gitlab
+
+### My Publications 
+
+- **Online Advertising Under Internet Censorship** *Hira Javaid (LUMS)*, Hafiz Kamran Khalil (LUMS), Zartash Afzal Uzmi (LUMS), Ihsan Ayyub Qazi (LUMS) In Proc. of: Hot Topics in Networks, 2017, ACM, Palo Alto, California, US - [pdf link](https://censorbib.nymity.ch/pdf/Javaid2017a.pdf)
+  
+- **Moby: A Blackout-resistant Anonymity Network for Mobile Devices** Amogh Pradeep (Northeastern University), *Hira Javaid* (Northeastern University), Ryan Williams (Northeastern University), Antoine Rault (EPFL), David Choffnes (Northeastern University), Stevens Le Blond (EPFL), and Bryan Ford (EPFL) in PETS 2022 - [pdf link](https://petsymposium.org/popets/2022/popets-2022-0071.pdf)
 
 
 <!--

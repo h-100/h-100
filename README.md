@@ -26,7 +26,7 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 - *ML and Data Analysis Tools:* Numpy, Pandas, word2vec with gensim, Sci-kit learn, NLP Python modules/libraries, ML algorithms implementations in Python, jupyter notebooks 
                 
 - *Visualization Tools:* plotly, matplotlib, d3 
-- *Linux Tools:*vim, grep, sed, awk 
+- *Linux Tools:* vim, grep, sed, awk 
                 
 **Languages:** Python, C/C++, Java, Bash, JavaScript/Typescript, Node, HTML/CSS, C\#, D3, SQL, Latex, VIM, PHP, some dabbling in Rust and Go
 

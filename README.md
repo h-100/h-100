@@ -19,7 +19,7 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 
 ### My Skills 
 
-**Tools/Technologies/Frameworks:**
+🌱 **Tools/Technologies/Frameworks:**
 - *Web Development:* MERN stack, Postman, ReactJS, Redux, Express, MongoDB, Angular, Ionic, Javascript/Typescript, HTML/CSS, Bootstrap, Tailwind, ESlint, webpack, Jira in an Agile framework of web development, web application security concepts 
                 
 - *Network Tools:* wireshark, tcpdump, nmap, ssh, netcat + other command-line utilities 
@@ -29,11 +29,11 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 - *Visualization Tools:* plotly, matplotlib, d3 
 - *Linux Tools:* vim, grep, sed, awk 
                 
-**Languages:** Python, C/C++, Java, Bash, JavaScript/Typescript, Node, HTML/CSS, C\#, D3, SQL, Latex, VIM, PHP, some dabbling in Rust and Go
+🌱 **Languages:** Python, C/C++, Java, Bash, JavaScript/Typescript, Node, HTML/CSS, C\#, D3, SQL, Latex, VIM, PHP, some dabbling in Rust and Go
 
-**Platforms**: Linux/Unix, Kali Linux, macOS, Windows, Apache Spark
+🌱 **Platforms**: Linux/Unix, Kali Linux, macOS, Windows, Apache Spark
 
-**Version Control Systems**: Github, Gitlab
+🌱 **Version Control Systems**: Github, Gitlab
 
 ### My Publications 
 

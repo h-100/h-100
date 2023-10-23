@@ -7,13 +7,13 @@ Para #2 describing work and publications
 
 #### My Current Ongoing Learnings/Projects/Tutorials 
 
-|  Projects                                            | Repo                            |
-|------------------------------------------------------|---------------------------------|
-| MERN stack flashcards project                        |                                 |
-| Bash mini scripts (updating every week)              |                                 |
-| React mini projects (updating biweekly)              |                                 |
-| JS/WebDev mini learnings (updating 3x a week)        |                                 |
-| Leetcode Learnings                                   |                                 |
+|  Projects                                            | Repo                                            |
+|------------------------------------------------------|-------------------------------------------------|
+| MERN stack flashcards project                        |                                                 |
+| Bash mini scripts (updating every week)              |    https://github.com/h-100/bash_learnings      |
+| React mini projects (updating biweekly)              |    https://github.com/h-100/react_things        |
+| JS/WebDev mini learnings (updating 3x a week)        |    https://github.com/h-100/webdev_things       |
+| Leetcode Learnings                                   |    https://github.com/h-100/leetcode            |
 
 
 #### My Skills 

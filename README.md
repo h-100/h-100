@@ -8,13 +8,13 @@ Hello, I am Hira, currently a full-stack software engineer (open for opportuniti
 
 ### My Current Ongoing Learnings/Projects/Tutorials 
 
-|  Projects                                            | Repo                                            |
-|------------------------------------------------------|-------------------------------------------------|
-| MERN stack side project                              |    ongoing                                      |
-| Bash mini scripts (updating every week)              |    https://github.com/h-100/bash_learnings      |
-| React mini projects (updating biweekly)              |    https://github.com/h-100/react_things        |
-| JS/WebDev mini learnings (updating 3x a week)        |    https://github.com/h-100/webdev_things       |
-| Leetcode Learnings                                   |    https://github.com/h-100/leetcode            |
+|  Projects                                            | Repo                                                     |
+|------------------------------------------------------|-------------------------------------------------         |
+| MERN stack side project                              |    ongoing                                               |
+| Bash mini scripts (updating every week)              |    [link] (https://github.com/h-100/bash_learnings)      |
+| React mini projects (updating biweekly)              |    [link] (https://github.com/h-100/react_things)        |
+| JS/WebDev mini learnings (updating 3x a week)        |    [link] (https://github.com/h-100/webdev_things)       |
+| Leetcode Learnings                                   |    [link] (https://github.com/h-100/leetcode)            |
 
 
 ### My Skills 

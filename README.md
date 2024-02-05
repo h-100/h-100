@@ -13,13 +13,10 @@ In addition to the experience in the industry, my years in academia working on r
 
 ### My Current Ongoing Learnings/Projects/Tutorials 
 
-|  Projects                                            | Repo                                                     |
-|------------------------------------------------------|-------------------------------------------------         |
-| MERN stack side project                              |    ongoing                                               |
-| Bash mini scripts (updating every week)              |    [link](https://github.com/h-100/bash_learnings)       |
-| React mini projects (updating biweekly)              |    [link](https://github.com/h-100/react_things)         |
-| JS/WebDev mini learnings (updating 3x a week)        |    [link](https://github.com/h-100/webdev_things)        |
-| Leetcode Learnings                                   |    [link](https://github.com/h-100/leetcode)             |
+|  Projects                                                    | Repo                                                     |
+|--------------------------------------------------------------|--------------------------------------------------------- |
+| John Crickett Coding Challenges                              |    see coding_challenges-* repos for more detail         |
+
 
 
 ### My Skills 

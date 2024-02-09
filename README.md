@@ -15,7 +15,7 @@ In addition to the experience in the industry, my years in academia working on r
 
 |  Projects                                                    | Repo                                                     |
 |--------------------------------------------------------------|--------------------------------------------------------- |
-| John Crickett Coding Challenges                              |    see coding_challenges-* repos for more detail         |
+| John Crickett Coding Challenges                              |    see code_challenges-* repos for more detail           |
 
 
 

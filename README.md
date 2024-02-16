@@ -13,10 +13,11 @@ In addition to the experience in the industry, my years in academia working on r
 
 ### My Current Ongoing Learnings/Projects/Tutorials 
 
-|  Projects / Ongoing Things                                   | Repo / Link / Other details                                                                                 |
+|  Projects / Mini Project / Ongoing Things                    | Repo / Link / Other details                                                          |
 |--------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | John Crickett Coding Challenges                              |    see code_challenges-* repos for more detail                                       |
 | Privacy, Tech and AI Bootcamp                                |    see link here: https://courses.implementprivacy.com/privacy-tech-and-ai-bootcamp  |
+| React Grid Game                                              |    https://github.com/h-100/react-grid-game 
 
 
 

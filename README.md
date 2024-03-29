@@ -43,8 +43,7 @@ In addition to the experience in the industry, my years in academia working on r
 
 - **Online Advertising Under Internet Censorship** *Hira Javaid (LUMS)*, Hafiz Kamran Khalil (LUMS), Zartash Afzal Uzmi (LUMS), Ihsan Ayyub Qazi (LUMS) In Proc. of: Hot Topics in Networks, 2017, ACM, Palo Alto, California, US - [pdf link](https://censorbib.nymity.ch/pdf/Javaid2017a.pdf)
   
-- **Moby: A Blackout-resistant Anonymity Network for Mobile Devices** Amogh Pradeep (Northeastern University), *Hira Javaid* (Northeastern University), Ryan Williams (Northeastern University), Antoine Rault (EPFL), David Choffnes (Northeastern University), Stevens Le Blond (EPFL), and Bryan Ford (EPFL) in PETS 2022 - [pdf link](https://petsymposium.org/popets/2022/popets-2022-0071.pdf)
-
+- **Moby: A Blackout-resistant Anonymity Network for Mobile Devices** Amogh Pradeep (Northeastern University), *Hira Javaid* (Northeastern University), Ryan Williams (Northeastern University), Antoine Rault (EPFL), David Choffnes (Northeastern University), Stevens Le Blond (EPFL), and Bryan Ford (EPFL) in PETS 2022 - [pdf link](https://petsymposium.org/popets/2022/popets-2022-0071.pdf) Code: https://github.com/00h-i-r-a00/moby_simulator
 
 <!--
 **h-100/h-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
